@@ -108,4 +108,3 @@ Drifter is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 Start keeping your AWS infrastructure in sync with **Drifter**!
-
